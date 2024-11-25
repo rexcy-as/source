@@ -34,7 +34,7 @@ if __name__ == "__main__":
     print("Mengecek dan menginstal package yang diperlukan...")
 
     # Daftar package yang diperlukan
-    packages = ["playwright"]
+    packages = ["playwright,fastapi"]
 
     # Iterasi setiap package untuk diperiksa dan diinstal
     for package in packages:

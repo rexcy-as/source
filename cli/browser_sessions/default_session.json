@@ -1,0 +1,1165 @@
+{
+  "cookies": [
+    {
+      "name": "cktst",
+      "value": "946118198",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckid",
+      "value": "4014851840977",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ph",
+      "value": "%7B%22p%22%3A%5B1025%2C1490%2C1203%2C1476%2C39%2C1305%2C1084%2C1022%5D%2C%22t%22%3A%5B139363%2C139363%2C139363%2C139363%2C139363%2C139363%2C139363%2C139363%5D%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fbh0",
+      "value": "%7B%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gcma",
+      "value": "%7B%22t%22%3A0%2C%22o%22%3Afalse%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmxc",
+      "value": "%7B%22t%22%3A0%2C%22e%22%3A%22%22%2C%22i%22%3Afalse%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dph",
+      "value": "%7B%22t%22%3A%5B139363%2C139363%2C139363%5D%2C%22dp%22%3A%5B4889%2C6729%2C1962%5D%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "au_3p_check",
+      "value": "1",
+      "domain": ".ad.gt",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "au_id",
+      "value": "AU1D0200001732476017XQ8E0RGASGC9",
+      "domain": ".ad.gt",
+      "path": "/",
+      "expires": 1764012021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckid",
+      "value": "4014851840977",
+      "domain": ".adaraanalytics.com",
+      "path": "/",
+      "expires": 1764012020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "aackid",
+      "value": "4014851840977",
+      "domain": ".adaraanalytics.com",
+      "path": "/",
+      "expires": 1764012020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "X-AB",
+      "value": "669381af4a0f468cb95458c3b530b177",
+      "domain": "sc-static.net",
+      "path": "/scevent.min.js",
+      "expires": 1732562417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "barometric[cuid]",
+      "value": "cuid_67437c72-76ef-4381-878e-8788df8ba679",
+      "domain": ".trkn.us",
+      "path": "/",
+      "expires": 1764012021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmtOnMKCEH398C-G_2f8VzOTRsKFJ7DlP9CxJLaAz1LGUhnc5bZTFsNWBsbV90",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1767036018,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "9e823142-8f34-4238-8f75-e64c1c81d365|1732476018",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1764012020,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "tmdl",
+      "value": "0",
+      "domain": "www.ticketmaster.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A173247601885113273",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1767036019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A173247601885113273",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1767036019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_ZCA30hh8JLu5ZAQ+5xfiIQ==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1767036019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A173247601885113273",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1767036019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KTPCACOOKIE",
+      "value": "true",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1740252018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "value": "6BA62177-969D-4353-B6D4-40D43DE5BC56",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1764012019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-29438716-4138-458b-93b0-0eaa53b17d9b&KRTB&22918-29438716-4138-458b-93b0-0eaa53b17d9b&KRTB&22926-29438716-4138-458b-93b0-0eaa53b17d9b&KRTB&23031-29438716-4138-458b-93b0-0eaa53b17d9b",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1740252021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1732476021",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1735068021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "REMARKET-ADV-10346",
+      "value": "[{\"adv_aud_id\":\"10346\",\"adv_pid\":\"K8vZ9171if7\",\"adv_cid\":\"KovZpZAFFInA\",\"adv_bid\":\"1Av7ZbpGkUud356\",\"adv_gid\":\"0\"}]",
+      "domain": ".advanseads.com",
+      "path": "/",
+      "expires": 1732519218,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ADV-BCID",
+      "value": "d6ca863c-a23c-45b1-bfe6-c3aeb5d6b04b",
+      "domain": ".advanseads.com",
+      "path": "/",
+      "expires": 1740252018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tbits",
+      "value": "a2586a3b-32c9-456f-98ea-29c73a677c2f",
+      "domain": "tradablebits.com",
+      "path": "/",
+      "expires": 1748028025,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "6984356078698941730",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1748028019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "M3VZHNOZ-S-G1MR",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "M3VZHNOZ-S-G1MR",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1740252022,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|VtAopBveD+ux6C1RV8ER8+2UycrI7UyNfL/9tM2XbR0G6HShpt/LbRj8JPVBD/L3Rp7TM8042O/yUhTWCqUS/Pv31DA4fHDqMp0HTDw5gZ71NrrQnqW2bfAeYsuJ8SmuBpjurD3Yn4yyPmCjEjBQfpE7jmj16+GKx8PbAHDWn+RunP+z61JFxQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|VtAopBveD+ux6C1RV8ER8+2UycrI7UyNfL/9tM2XbR0G6HShpt/LbRj8JPVBD/L3Rp7TM8042O/yUhTWCqUS/Pv31DA4fHDqMp0HTDw5gZ71NrrQnqW2bfAeYsuJ8SmuBpjurD3Yn4yyPmCjEjBQfpE7jmj16+GKx8PbAHDWn+RunP+z61JFxQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uis",
+      "value": "a6eff3b8-67f2-4aec-8b54-92a9626b134f",
+      "domain": ".go.sonobi.com",
+      "path": "/",
+      "expires": 1764012018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HAPLB3G",
+      "value": "s3564|Z0N8d",
+      "domain": ".go.sonobi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "seerid",
+      "value": "a604b752-bc14-46d0-93d7-af7876db3804",
+      "domain": ".lytics.io",
+      "path": "/",
+      "expires": 1767036020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "Z0N8dosFVcEAAGCeAjhZNgAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "4873",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1740252022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "4873",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1740252022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "05e0c599-e5dd-4e5e-bbac-c2abec372951",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1767036019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "6rgYGszEzeCfgljbYUkPuU1t1vsPZ6Egpl_YmAcVrUU-1732476018-1.0.1.1-_AULh3j20pZl.DmMjQrGEV7hfS0NtHLcVG6iAyNo8ElNPLZgjsndbLvtRMBznN0a4EyqCJaxRCRqjmaS2Q6gfQ",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1732477818,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "3742c2af-e8f1-4f14-9391-aa31a832a22f",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1732476022",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1732476022",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "19ak~2m0j",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1764012022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBHV8Q2cCEL5Qxv3jfBgGuutNkZFlpYEFEgEBAQHNRGdNZ1rzyiMA_eMAAA&S=AQAAAvKJ_yqs4-QXSjA983GvzOM",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1764033622,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "eps_sid",
+      "value": "3e13772679e7d1ebee3670e6f9413f69fde09c94",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1735068005,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "tmpt",
+      "value": "0:7c9dac57ea000000:1732476008:b086b35a:4d0495a4de710350728a38ca3fa067df:da7f136bccb9660dbf77e4f74e664a279742b0df7839f93f48130bcb831933d9",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732479608,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "lightstep_guid%2Fco2.sdk",
+      "value": "1d658d833f6f7770",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1733080811,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt.pc",
+      "value": "2.1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "TMUO",
+      "value": "east_XQx66kN+1EsTySUE51Z0nos8P9I7m7sJtDmAkmboJW0=",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lightstep_guid%2Fedp.app",
+      "value": "7f3301a66f5de83e",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1733080812,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "lightstep_session_id",
+      "value": "1d92c066279c5892",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1733080812,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dc_gtm_UA-60025178-2",
+      "value": "1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732476074,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dc_gtm_UA-60025178-1",
+      "value": "1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732476074,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_H1KKSGW33X",
+      "value": "GS1.1.1732476014.1.0.1732476014.60.0.0",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036014,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt.g.2f013145",
+      "value": "2.1777854953.1732476011653",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt.v",
+      "value": "2.1777854953.1732476011653",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036015,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "TM_PIXEL",
+      "value": "{\"_dvs\":\"0:m3vzhmx8:VgknIvj9vT5mJf5VVEd7A8xKUvcP_7FC\",\"_dvp\":\"0:m3vzhmx8:EnEAZiNug7ak3DTWz~ij_vMXkVrRmwoc\"}",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dvs",
+      "value": "0:m3vzhmx8:VgknIvj9vT5mJf5VVEd7A8xKUvcP_7FC",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1732477818,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dvp",
+      "value": "0:m3vzhmx8:EnEAZiNug7ak3DTWz~ij_vMXkVrRmwoc",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "seerses",
+      "value": "e",
+      "domain": ".www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1732477818,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.57343459.1732476013",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1740252013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scid",
+      "value": "Yd__utPdN7Q-Nd5vquR4bDPkuzU_qZi7",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766662716,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_au_1d",
+      "value": "AU1D0200001732476017XQ8E0RGASGC9",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1764012018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scid_r",
+      "value": "bF__utPdN7Q-Nd5vquR4bDPkuzU_qZi7ZdyFrQ",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766662716,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1732476019218.f37c595f-9f4c-47e8-a18d-ca9016812ba7",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1740252019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766172021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ttp",
+      "value": "n8w04k9OfKw3VFIERNapImpDquF.tt.1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766172021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1732476015136.941239927504466528",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1740252021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tq_id.TV-5454815427-1.e79f",
+      "value": "fd6fbc6a26385075.1732476022.0.1732476022..",
+      "domain": "www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__qca",
+      "value": "P0-505932841-1732476020002",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766344821,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetsid",
+      "value": "248c1f00aa9911ef8d740933c616d67e|uvkenm|2|fr5|0|1789",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732562422,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1732467600000",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766662722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_H79DVXFDK0",
+      "value": "GS1.1.1732476024.1.0.1732476024.60.0.0",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766640024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_cvars",
+      "value": "%7B%221%22%3A%5B%22Page%20Name%22%2C%22TM_CA%3A%20CCP%20EDP%3A%20RS%3A%20Offsale%22%5D%2C%222%22%3A%5B%22Page%20Type%22%2C%22CCP%20EDP%3A%20Offsale%22%5D%2C%223%22%3A%5B%22Modules%20Available%22%2C%22EDP_RseAllinPricing_OldNeedtoKnow%22%5D%2C%224%22%3A%5B%22Platform%22%2C%22ccp-edp%22%5D%2C%225%22%3A%5B%22Login%20Status%22%2C%22Not%20Logged%20In%22%5D%2C%226%22%3A%5B%22Major%20Category%22%2C%22Music%22%5D%2C%227%22%3A%5B%22Minor%20Category%22%2C%22Rock%22%5D%2C%228%22%3A%5B%22Artist%20ID%22%2C%22703831%22%5D%2C%229%22%3A%5B%22Artist%20Name%22%2C%22LINKIN%20PARK%22%5D%2C%2210%22%3A%5B%22Venue%20ID%22%2C%22139269%22%5D%2C%2211%22%3A%5B%22Event%20ID%22%2C%221100616D8D0D22C7%22%5D%2C%2212%22%3A%5B%22Event%20Date%22%2C%229%2F21%2F2025%22%5D%2C%2213%22%3A%5B%22EDP%20Page%20Type%22%2C%22CCP%20EDP%3A%20SIM%22%5D%2C%2214%22%3A%5B%22Event%20Type%22%2C%22STANDARD%22%5D%7D",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_id",
+      "value": "a95d2e33-5b74-a9ec-c8d2-051903764350.1732476024.1.1732476024.1732476024.1723134244.1766640024963.1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766640024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_s",
+      "value": "1.5.1.1732477826136",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732477826,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "seerid",
+      "value": "a604b752-bc14-46d0-93d7-af7876db3804",
+      "domain": ".www.ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036026,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetvid",
+      "value": "248c5ef0aa9911ef958453b41e8c6cab|qcii6m|1732476028454|1|1|bat.bing.com/p/insights/c/l",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766172028,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=019b83c0e9cb9872:T=1732476022:RT=1732476022:S=ALNI_MYgpDAHufVOdF8V2tESA9GZ3BcgwA",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766172022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=00000f76b249bdc0:T=1732476022:RT=1732476022:S=ALNI_MbO2BdwRLalkNuy-a9UQUKq4pLC_w",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1766172022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=6be55faf68151b91:T=1732476022:RT=1732476022:S=AA-AfjbA8_luYOsQvtCJMUQuTivI",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1748028022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.2043007815.1732476014",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036030,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.354078081.1732476014",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1732562430,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_C1T806G4DF",
+      "value": "GS1.1.1732476014.1.1.1732476032.42.0.0",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1767036032,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonGroups",
+      "value": ",C0001,C0003,C0002,C0004,",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1764012034,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Nov+25+2024+02%3A20%3A34+GMT%2B0700+(Western+Indonesia+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=957d9c5d-1808-4249-a03e-4dc5fd9029f0&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.ticketmaster.ca%2Flinkin-park-from-zero-world-tour-vancouver-british-columbia-09-21-2025%2Fevent%2F1100616D8D0D22C7&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+      "domain": ".ticketmaster.ca",
+      "path": "/",
+      "expires": 1764012034,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAAAE3GyQ3AMAgEwIqQliMc7sYouAoXn2/mNR7zaB0mDIJs+qVKTtqV5tkNmbhsWBwqFg7R+ys+KNNxhEAAAAA=",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1766172023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mc",
+      "value": "67437c74-27acd-d5b1a-8fc56",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1766690420,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "178822165e2f38f50efb01f1732476017",
+      "domain": ".scorecardresearch.com",
+      "path": "/",
+      "expires": 1766172018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANOXeZxUGfQ2mBKVSUMtHJf12AkseYau6SOwORi_T4vkYxFCkqHlAu1fYmqVwbHb9epkKaYIs94GFCcF43kw_yw",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1748028031,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1733080819,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPTC",
+      "value": "l9qi8Njksv9oDRNK3nEtusxfvgqdR85AyqAnTyyx-PQ",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1766172019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1368E052C402630B0817F513C5546222",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1766172019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1732476018942",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1737660023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "748be57d-9b19-4900-97a8-dd6ed457d263",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1737660023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "1!7915",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1737660023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "6573063272958995129",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1740252020,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "29438716-4138-458b-93b0-0eaa53b17d9b",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1764012030,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFQoGZ29vZ2xlEgsI_OHg_uKxxj0QBRIWCgdydWJpY29uEgsI0OT3sOKxxj0QBRIVCgZjYXNhbGUSCwia2e2R4rHGPRAFEhgKCWJpZHN3aXRjaBILCJ7P8rXiscY9EAUSFwoIcHVibWF0aWMSCwjIhr-x4rHGPRAFEhQKBXRhcGFkEgsI_vKgr-Kxxj0QBRgBIAIoAjILCPSKooL5scY9EAU4AVoHZjRpN2E2YWAC",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1764012030,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ttp",
+      "value": "2pJEwaJ8G9urP5PNtuEB6QqTqI0",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1766172018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rlas3",
+      "value": "VLkbYzWR+ZBequgnDGpLGEmNBG8Rw7pk0UCWnYESE/E=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1764012020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CAA=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1737660020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.ticketmaster.ca",
+      "localStorage": [
+        {
+          "name": "_uetsid_exp",
+          "value": "Mon, 25 Nov 2024 19:20:22 GMT"
+        },
+        {
+          "name": "au/sid",
+          "value": "{\"v\":\"AU1S-0100-001732476020-0RGD9ZWZ-CU1V\",\"e\":1732477820033}"
+        },
+        {
+          "name": "au/tid",
+          "value": "{\"v\":\"df70bd492b0a73f135702cfcffa22c27\",\"e\":1732479620033}"
+        },
+        {
+          "name": "lytics_segments",
+          "value": "[\"all\",\"smt_new\",\"default_anon_seg\"]"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Fri, 19 Dec 2025 19:20:28 GMT"
+        },
+        {
+          "name": "_uetsid",
+          "value": "248c1f00aa9911ef8d740933c616d67e|uvkenm|2|fr5|0|1789"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ANOXeZxptjY8vhhaewo7rRHOU-e1suHKTRW-a7fEgGzMK4EyPJH_YcUFJZLnD2gEzf2YpO3KD2ukc_5tmSsPIjxBcA41f9NqGNiM_aNLe4ydi4JXHx_pLMqSlNC0zgtY"
+        },
+        {
+          "name": "u_sclid",
+          "value": "euhZ40dUI9evqWslE6vNBW_8FW6jIITeYd__utPdN7Q-Nd5vquR4bDPkuzU_qZi7"
+        },
+        {
+          "name": "TM_PRICING_AGREEMENT_LAST_ACCEPTED_TIME",
+          "value": "1732476029609"
+        },
+        {
+          "name": "au/1d",
+          "value": "{\"v\":\"AU1D0200001732476017XQ8E0RGASGC9\",\"e\":0}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "dWhZ40dUI9evqWslE6vNBW_8FW6jIITe3pPaRmxf_7rT3Te0PjXeb6rkeGwz5Ls1P6mYu2Xcha0"
+        },
+        {
+          "name": "au/last_seen_pixels",
+          "value": "{\"v\":{\"apn\":1732476018,\"openx\":1732476018,\"pub\":1732476018,\"rub\":1732476018,\"ttd\":1732476018,\"tapad\":1732476018,\"adx\":1732476018,\"amo\":1732476018,\"son\":1732476018,\"goo\":1732476018},\"e\":0}"
+        },
+        {
+          "name": "__qca",
+          "value": "{\"value\":\"P0-505932841-1732476020002\",\"expiry\":1766344821899}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1732476021636"
+        },
+        {
+          "name": "ualdebug",
+          "value": "off"
+        },
+        {
+          "name": "_uetvid",
+          "value": "248c5ef0aa9911ef958453b41e8c6cab|qcii6m|1732476028454|1|1|bat.bing.com/p/insights/c/l"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::f",
+          "value": "0aAI_dno6Wdi5KU0RjcSF0LqNMc_xJqu56_DP8JpKubPz6vSEZaMULvOsw0Oh-VshOsKi9AFM"
+        },
+        {
+          "name": "rc::a",
+          "value": "enJ4aHdiMWJxbGh5cg=="
+        }
+      ]
+    },
+    {
+      "origin": "https://sb.monetate.net",
+      "localStorage": [
+        {
+          "name": "mt.g.2f013145",
+          "value": "2.1777854953.1732476011653"
+        }
+      ]
+    },
+    {
+      "origin": "https://tr.snapchat.com",
+      "localStorage": [
+        {
+          "name": "u_sclid",
+          "value": "ZYNPEQSLI8PIy1L6iw96G3eXC5xgV6ZGHXQTZzhTxXqOh1_jwNjmUjyJ3-KUL0j9"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "YANPEQSLI8PIy1L6iw96G3eXC5xgV6ZGRveHXCj0E2c4U8V6jodf48DY5lI8id_ilC9I_YvA85M"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2024-11-25T02:20:53.008997"
+}

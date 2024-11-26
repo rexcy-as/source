@@ -176,7 +176,7 @@ def scrape_with_session(url, session_name="default_session"):
                     else:
                         ticket_type = ticket_type_locator.text_content(timeout=5000).strip() if ticket_type_locator.count() else None
 
-                    if (price_text and price_text != "Unknown Price") or (ticket_type and ticket_type != "Unknown Ticket Type"):
+                    if (price_text and price_text != "Unknown Price") and (ticket_type and ticket_type != "Unknown Ticket Type"):
                         ticket_info = {
                             "section": section_text if section_text else "Unknown Section",
                             "ticket_type": ticket_type if ticket_type else "Unknown Ticket Type",

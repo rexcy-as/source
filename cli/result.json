@@ -12,13 +12,103 @@
             "section": "Sec 116 • Row 16",
             "ticket_type": "THE EMPTINESS MACHINE PACKAGE",
             "price": "CA $436.01"
+        },
+        {
+            "section": "Floor Section",
+            "ticket_type": "OVERFLOW EARLY ENTRY PACKAGE",
+            "price": "CA $754.02"
+        },
+        {
+            "section": "Sec 117 • Row 9",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 5",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 6",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 7",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 4",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 8",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 107 • Row 9",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 118 • Row 4",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 118 • Row 6",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 104 • Row 8",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 105 • Row 4",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 105 • Row 6",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 105 • Row 8",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 105 • Row 9",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 116 • Row 4",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 116 • Row 6",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
+        },
+        {
+            "section": "Sec 116 • Row 9",
+            "ticket_type": "FROM ZERO PREMIUM EXPERIENCE",
+            "price": "CA $943.71"
         }
     ],
     "standard_tickets": [
         {
-            "section": "Sec 329 • Row 3",
+            "section": "Sec 306 • Row 3",
             "ticket_type": "Standard Admission",
-            "price": "CA $166.50"
+            "price": "CA $215.65"
         },
         {
             "section": "Sec 321 • Row 5",
@@ -32,11 +122,6 @@
         },
         {
             "section": "Sec 310 • Row 6",
-            "ticket_type": "Standard Admission",
-            "price": "CA $215.65"
-        },
-        {
-            "section": "Sec 306 • Row 3",
             "ticket_type": "Standard Admission",
             "price": "CA $215.65"
         },
@@ -181,11 +266,6 @@
             "price": "CA $240.25"
         },
         {
-            "section": "Sec 119 • Row 24",
-            "ticket_type": "Standard Admission",
-            "price": "CA $240.25"
-        },
-        {
             "section": "Sec 113 • Row 24",
             "ticket_type": "Preferred Seating (Aisle) Offer",
             "price": "CA $240.25"
@@ -276,11 +356,6 @@
             "price": "CA $240.25"
         },
         {
-            "section": "Sec 115 • Row 24",
-            "ticket_type": "Front Of The Line by American Express® Experiences Reserved Ticket",
-            "price": "CA $240.25"
-        },
-        {
             "section": "Sec 120 • Row 23",
             "ticket_type": "Preferred Seating (Aisle) Offer",
             "price": "CA $240.25"
@@ -317,11 +392,6 @@
         },
         {
             "section": "Sec 119 • Row 24",
-            "ticket_type": "Preferred Seating (Aisle) Offer",
-            "price": "CA $264.85"
-        },
-        {
-            "section": "Sec 104 • Row 23",
             "ticket_type": "Preferred Seating (Aisle) Offer",
             "price": "CA $264.85"
         },
@@ -401,11 +471,6 @@
             "price": "CA $283.25"
         },
         {
-            "section": "Sec 113 • Row 14",
-            "ticket_type": "Standard Admission",
-            "price": "CA $283.25"
-        },
-        {
             "section": "Sec 113 • Row 15",
             "ticket_type": "Standard Admission",
             "price": "CA $283.25"
@@ -427,16 +492,6 @@
         },
         {
             "section": "Sec 109 • Row 14",
-            "ticket_type": "Standard Admission",
-            "price": "CA $283.25"
-        },
-        {
-            "section": "Sec 112 • Row 11",
-            "ticket_type": "Standard Admission",
-            "price": "CA $283.25"
-        },
-        {
-            "section": "Sec 112 • Row 15",
             "ticket_type": "Standard Admission",
             "price": "CA $283.25"
         },
@@ -479,11 +534,6 @@
             "section": "Sec 103 • Row 15",
             "ticket_type": "Standard Admission",
             "price": "CA $283.25"
-        },
-        {
-            "section": "Sec 120 • Row 10",
-            "ticket_type": "Preferred Seating (Aisle) Offer",
-            "price": "CA $307.85"
         },
         {
             "section": "Sec 120 • Row 11",
@@ -542,11 +592,6 @@
         },
         {
             "section": "Sec 111 • Row 13",
-            "ticket_type": "Preferred Seating (Aisle) Offer",
-            "price": "CA $307.85"
-        },
-        {
-            "section": "Sec 111 • Row 11",
             "ticket_type": "Preferred Seating (Aisle) Offer",
             "price": "CA $307.85"
         },
@@ -799,728 +844,868 @@
             "section": "Sec 118 • Row 5",
             "ticket_type": "Official Platinum",
             "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 118 • Row 7",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 118 • Row 2",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 119 • Row 2",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 103 • Row 2",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 104 • Row 2",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 105 • Row 5",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 105 • Row 7",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 105 • Row 9",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 116 • Row 2",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 116 • Row 3",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 116 • Row 5",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 116 • Row 7",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
+        },
+        {
+            "section": "Sec 116 • Row 9",
+            "ticket_type": "Official Platinum",
+            "price": "CA $670.54"
         }
     ],
     "resale_tickets": [
         {
             "section": "Sec 306 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $184.45"
+            "price": "CA $181.35"
         },
         {
             "section": "Sec 325 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $197.54"
+            "price": "CA $196.56"
         },
         {
             "section": "Sec 322 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $201.11"
+            "price": "CA $197.73"
+        },
+        {
+            "section": "Sec 302 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $204.75"
         },
         {
             "section": "Sec 312 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $207.06"
-        },
-        {
-            "section": "Sec 328 • Row 11",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $207.06"
+            "price": "CA $205.92"
         },
         {
             "section": "Sec 313 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $207.06"
-        },
-        {
-            "section": "Sec 317 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $207.06"
+            "price": "CA $205.92"
         },
         {
             "section": "Sec 316 • Row 6",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 321 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
-        },
-        {
-            "section": "Sec 326 • Row 14",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 326 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 320 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 320 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 327 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 327 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 304 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 319 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 319 • Row 12",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 328 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 328 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
+        },
+        {
+            "section": "Sec 328 • Row 11",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 330 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
+        },
+        {
+            "section": "Sec 303 • Row 13",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $207.09"
+        },
+        {
+            "section": "Sec 330 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 329 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 302 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $208.25"
+            "price": "CA $207.09"
+        },
+        {
+            "section": "Sec 317 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $207.09"
         },
         {
             "section": "Sec 304 • Row 4",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $209.44"
+            "price": "CA $208.26"
         },
         {
             "section": "Sec 311 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $209.44"
+            "price": "CA $208.26"
         },
         {
             "section": "Sec 318 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $209.44"
+            "price": "CA $208.26"
         },
         {
             "section": "Sec 326 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $214.20"
+            "price": "CA $212.94"
         },
         {
             "section": "Sec 302 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $217.77"
-        },
-        {
-            "section": "Sec 330 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $226.10"
+            "price": "CA $214.11"
         },
         {
             "section": "Sec 321 • Row 15",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $232.05"
-        },
-        {
-            "section": "Sec 304 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $232.05"
+            "price": "CA $230.49"
         },
         {
             "section": "Sec 325 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $238.00"
+            "price": "CA $234.00"
         },
         {
             "section": "Sec 301 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $238.00"
+            "price": "CA $234.00"
         },
         {
             "section": "Sec 302 • Row 6",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $241.57"
+            "price": "CA $239.85"
         },
         {
             "section": "Sec 309 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $242.76"
-        },
-        {
-            "section": "Sec 324 • Row 14",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $247.52"
+            "price": "CA $241.02"
         },
         {
             "section": "Sec 317 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $248.71"
+            "price": "CA $244.53"
         },
         {
             "section": "Sec 307 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $249.90"
+            "price": "CA $245.70"
+        },
+        {
+            "section": "Sec 324 • Row 14",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $245.70"
         },
         {
             "section": "Sec 322 • Row 12",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $249.90"
+            "price": "CA $245.70"
         },
         {
             "section": "Sec 329 • Row 3",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $253.47"
+            "price": "CA $251.55"
+        },
+        {
+            "section": "Sec 307 • Row 9",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $251.55"
         },
         {
             "section": "Sec 323 • Row 12",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $255.85"
+            "price": "CA $251.55"
         },
         {
             "section": "Sec 310 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $255.85"
+            "price": "CA $251.55"
         },
         {
             "section": "Sec 326 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $255.85"
+            "price": "CA $253.89"
         },
         {
             "section": "Sec 328 • Row 9",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $260.61"
+            "price": "CA $256.23"
         },
         {
             "section": "Sec 325 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $261.80"
+            "price": "CA $260.91"
         },
         {
             "section": "Sec 307 • Row 7",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $264.18"
-        },
-        {
-            "section": "Sec 324 • Row 14",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $266.56"
-        },
-        {
-            "section": "Sec 322 • Row 15",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $266.56"
+            "price": "CA $262.08"
         },
         {
             "section": "Sec 330 • Row 2",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $267.75"
+            "price": "CA $263.25"
         },
         {
             "section": "Sec 304 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $267.75"
+            "price": "CA $263.25"
         },
         {
             "section": "Sec 304 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $267.75"
-        },
-        {
-            "section": "Sec 305 • Row 14",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $272.51"
-        },
-        {
-            "section": "Sec 304 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $272.51"
-        },
-        {
-            "section": "Sec 324 • Row 11",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $274.89"
-        },
-        {
-            "section": "Sec 324 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $274.89"
-        },
-        {
-            "section": "Sec 309 • Row 8",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $276.08"
-        },
-        {
-            "section": "Sec 325 • Row 14",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $279.65"
-        },
-        {
-            "section": "Sec 312 • Row 11",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $280.84"
-        },
-        {
-            "section": "Sec 110 • Row 20",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $285.60"
-        },
-        {
-            "section": "Sec 307 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $287.98"
-        },
-        {
-            "section": "Sec 329 • Row 8",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $296.31"
-        },
-        {
-            "section": "Sec 327 • Row 3",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $297.50"
-        },
-        {
-            "section": "Sec 301 • Row 2",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $297.50"
-        },
-        {
-            "section": "Sec 324 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $297.50"
-        },
-        {
-            "section": "Sec 323 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $298.69"
-        },
-        {
-            "section": "Sec 315 • Row 13",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $303.45"
-        },
-        {
-            "section": "Sec 308 • Row 7",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $305.83"
-        },
-        {
-            "section": "Sec 307 • Row 9",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $307.02"
-        },
-        {
-            "section": "Sec 327 • Row 15",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $312.97"
-        },
-        {
-            "section": "Sec 308 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $316.54"
-        },
-        {
-            "section": "Sec 324 • Row 2",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $320.11"
-        },
-        {
-            "section": "Sec 322 • Row 3",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $320.11"
-        },
-        {
-            "section": "Sec 310 • Row 5",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $327.25"
-        },
-        {
-            "section": "Sec 307 • Row 9",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $327.25"
-        },
-        {
-            "section": "Sec 310 • Row 8",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $330.82"
-        },
-        {
-            "section": "Sec 122 • Row 16",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $333.20"
-        },
-        {
-            "section": "Sec 122 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $334.39"
-        },
-        {
-            "section": "Sec 313 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $334.39"
-        },
-        {
-            "section": "Sec 101 • Row 24",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $337.96"
-        },
-        {
-            "section": "Sec 121 • Row 24",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $341.53"
-        },
-        {
-            "section": "Sec 327 • Row 15",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $343.91"
-        },
-        {
-            "section": "Sec 103 • Row 19",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $345.09"
-        },
-        {
-            "section": "Sec 111 • Row 24",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $345.10"
-        },
-        {
-            "section": "Sec 303 • Row 8",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $347.48"
-        },
-        {
-            "section": "Sec 327 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $347.48"
-        },
-        {
-            "section": "Sec 303 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $347.48"
-        },
-        {
-            "section": "Sec 121 • Row 23",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $348.67"
-        },
-        {
-            "section": "Sec 103 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $355.81"
-        },
-        {
-            "section": "Sec 311 • Row 2",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $357.00"
-        },
-        {
-            "section": "Sec 314 • Row 7",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $357.00"
-        },
-        {
-            "section": "Sec 315 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $357.00"
-        },
-        {
-            "section": "Sec 315 • Row 15",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $357.00"
-        },
-        {
-            "section": "Sec 316 • Row 9",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $362.95"
-        },
-        {
-            "section": "Sec 329 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $364.14"
-        },
-        {
-            "section": "Sec 314 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $364.14"
-        },
-        {
-            "section": "Sec 327 • Row 8",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $365.33"
-        },
-        {
-            "section": "Sec 103 • Row 24",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $366.52"
-        },
-        {
-            "section": "Sec 304 • Row 13",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $374.85"
-        },
-        {
-            "section": "Sec 120 • Row 24",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $377.23"
-        },
-        {
-            "section": "Sec 112 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $378.42"
-        },
-        {
-            "section": "Sec 315 • Row 11",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $395.08"
-        },
-        {
-            "section": "Sec 120 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $397.46"
-        },
-        {
-            "section": "Sec 121 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $397.46"
-        },
-        {
-            "section": "Sec 120 • Row 10",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $404.60"
-        },
-        {
-            "section": "Sec 122 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $405.79"
-        },
-        {
-            "section": "Sec 305 • Row 12",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $405.79"
-        },
-        {
-            "section": "Sec 121 • Row 25",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $414.12"
-        },
-        {
-            "section": "Sec 106 • Row 23",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
-        },
-        {
-            "section": "Sec 118 • Row 23",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
-        },
-        {
-            "section": "Sec 121 • Row 20",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
-        },
-        {
-            "section": "Sec 118 • Row 13",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
+            "price": "CA $265.59"
         },
         {
             "section": "Sec 324 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
+            "price": "CA $267.93"
         },
         {
-            "section": "Sec 314 • Row 15",
+            "section": "Sec 322 • Row 15",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $416.50"
+            "price": "CA $267.93"
         },
         {
-            "section": "Sec 120 • Row 25",
+            "section": "Sec 305 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $426.02"
+            "price": "CA $271.44"
         },
         {
-            "section": "Sec 101 • Row 21",
+            "section": "Sec 304 • Row 12",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $426.02"
+            "price": "CA $271.44"
         },
         {
-            "section": "Sec 112 • Row 20",
+            "section": "Sec 309 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $429.59"
+            "price": "CA $274.95"
         },
         {
-            "section": "Sec 117 • Row 22",
+            "section": "Sec 324 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $431.38"
+            "price": "CA $276.12"
         },
         {
-            "section": "Sec 325 • Row 9",
+            "section": "Sec 324 • Row 12",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $433.16"
+            "price": "CA $276.12"
         },
         {
-            "section": "Sec 120 • Row 19",
+            "section": "Sec 325 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $436.73"
+            "price": "CA $277.29"
         },
         {
-            "section": "Sec 102 • Row 19",
+            "section": "Sec 312 • Row 11",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $436.73"
+            "price": "CA $279.63"
         },
         {
-            "section": "Sec 121 • Row 24",
+            "section": "Sec 110 • Row 20",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $437.92"
+            "price": "CA $280.80"
         },
         {
-            "section": "Sec 111 • Row 25",
+            "section": "Sec 307 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $437.92"
+            "price": "CA $286.65"
         },
         {
-            "section": "Sec 122 • Row 20",
+            "section": "Sec 329 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $446.25"
+            "price": "CA $291.33"
         },
         {
-            "section": "Sec 120 • Row 23",
+            "section": "Sec 327 • Row 3",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $451.01"
+            "price": "CA $292.50"
+        },
+        {
+            "section": "Sec 301 • Row 2",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $292.50"
+        },
+        {
+            "section": "Sec 304 • Row 14",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $292.50"
+        },
+        {
+            "section": "Sec 324 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $296.01"
+        },
+        {
+            "section": "Sec 323 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $297.18"
         },
         {
             "section": "Sec 315 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $476.00"
+            "price": "CA $301.86"
         },
         {
-            "section": "Sec 102 • Row 25",
+            "section": "Sec 308 • Row 7",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $497.42"
+            "price": "CA $304.20"
+        },
+        {
+            "section": "Sec 307 • Row 9",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $305.37"
+        },
+        {
+            "section": "Sec 327 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $311.22"
+        },
+        {
+            "section": "Sec 324 • Row 2",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $314.73"
+        },
+        {
+            "section": "Sec 322 • Row 3",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $314.73"
+        },
+        {
+            "section": "Sec 308 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $314.73"
+        },
+        {
+            "section": "Sec 310 • Row 5",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $321.75"
+        },
+        {
+            "section": "Sec 122 • Row 16",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $327.60"
+        },
+        {
+            "section": "Sec 310 • Row 8",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $328.77"
+        },
+        {
+            "section": "Sec 122 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $332.28"
+        },
+        {
+            "section": "Sec 313 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $332.28"
+        },
+        {
+            "section": "Sec 101 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $335.79"
+        },
+        {
+            "section": "Sec 121 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $338.13"
+        },
+        {
+            "section": "Sec 103 • Row 19",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $339.29"
+        },
+        {
+            "section": "Sec 311 • Row 2",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $339.30"
+        },
+        {
+            "section": "Sec 111 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $341.64"
+        },
+        {
+            "section": "Sec 327 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $341.64"
+        },
+        {
+            "section": "Sec 303 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $341.64"
+        },
+        {
+            "section": "Sec 121 • Row 23",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $345.15"
+        },
+        {
+            "section": "Sec 303 • Row 8",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $345.15"
+        },
+        {
+            "section": "Sec 327 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $345.15"
+        },
+        {
+            "section": "Sec 103 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $349.83"
+        },
+        {
+            "section": "Sec 314 • Row 7",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $351.00"
+        },
+        {
+            "section": "Sec 315 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $351.00"
+        },
+        {
+            "section": "Sec 315 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $351.00"
+        },
+        {
+            "section": "Sec 113 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $353.34"
+        },
+        {
+            "section": "Sec 103 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $360.36"
+        },
+        {
+            "section": "Sec 327 • Row 8",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $362.70"
+        },
+        {
+            "section": "Sec 329 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $362.70"
+        },
+        {
+            "section": "Sec 314 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $362.70"
+        },
+        {
+            "section": "Sec 120 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $370.89"
+        },
+        {
+            "section": "Sec 304 • Row 13",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $373.23"
+        },
+        {
+            "section": "Sec 112 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $376.74"
+        },
+        {
+            "section": "Sec 315 • Row 11",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $393.12"
+        },
+        {
+            "section": "Sec 120 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $394.29"
+        },
+        {
+            "section": "Sec 121 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $394.29"
+        },
+        {
+            "section": "Sec 121 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $395.46"
+        },
+        {
+            "section": "Sec 120 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $397.80"
+        },
+        {
+            "section": "Sec 122 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $403.65"
+        },
+        {
+            "section": "Sec 305 • Row 12",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $403.65"
+        },
+        {
+            "section": "Sec 120 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $407.16"
+        },
+        {
+            "section": "Sec 106 • Row 23",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $409.50"
+        },
+        {
+            "section": "Sec 118 • Row 23",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $409.50"
+        },
+        {
+            "section": "Sec 118 • Row 13",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $409.50"
+        },
+        {
+            "section": "Sec 324 • Row 14",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $409.50"
+        },
+        {
+            "section": "Sec 314 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $409.50"
+        },
+        {
+            "section": "Sec 121 • Row 20",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $414.18"
+        },
+        {
+            "section": "Sec 121 • Row 24",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $418.86"
+        },
+        {
+            "section": "Sec 101 • Row 21",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $423.54"
+        },
+        {
+            "section": "Sec 111 • Row 25",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $430.56"
+        },
+        {
+            "section": "Sec 120 • Row 23",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $431.73"
+        },
+        {
+            "section": "Sec 112 • Row 20",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $431.73"
+        },
+        {
+            "section": "Sec 325 • Row 9",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $431.73"
+        },
+        {
+            "section": "Sec 120 • Row 19",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $434.07"
+        },
+        {
+            "section": "Sec 102 • Row 19",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $434.07"
+        },
+        {
+            "section": "Sec 122 • Row 20",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $443.43"
+        },
+        {
+            "section": "Sec 315 • Row 13",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $468.00"
         },
         {
             "section": "Sec 114 • Row 25",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $499.80"
+            "price": "CA $491.40"
         },
         {
             "section": "Sec 323 • Row 15",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $499.80"
+            "price": "CA $491.40"
         },
         {
-            "section": "Sec 114 • Row 14",
+            "section": "Sec 102 • Row 25",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $503.37"
+            "price": "CA $493.74"
         },
         {
             "section": "Sec 321 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $505.75"
+            "price": "CA $497.25"
+        },
+        {
+            "section": "Sec 114 • Row 14",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $500.76"
         },
         {
             "section": "Sec 116 • Row 25",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $516.46"
+            "price": "CA $513.63"
         },
         {
             "section": "Sec 101 • Row 25",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $522.41"
+            "price": "CA $518.31"
         },
         {
             "section": "Sec 118 • Row 21",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $523.60"
+            "price": "CA $520.65"
+        },
+        {
+            "section": "Sec 309 • Row 8",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $526.50"
         },
         {
             "section": "Sec 108 • Row 14",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $535.50"
+            "price": "CA $526.50"
         },
         {
             "section": "Sec 110 • Row 21",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $552.16"
+            "price": "CA $548.73"
         },
         {
             "section": "Sec 117 • Row 22",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $574.77"
+            "price": "CA $572.13"
         },
         {
             "section": "Sec 109 • Row 24",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $589.05"
+            "price": "CA $586.17"
         },
         {
             "section": "Sec 106 • Row 22",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $599.76"
-        },
-        {
-            "section": "Sec 116 • Row 13",
-            "ticket_type": "Verified Resale Ticket",
-            "price": "CA $606.90"
+            "price": "CA $596.70"
         },
         {
             "section": "Floor Section",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $612.85"
+            "price": "CA $602.55"
         },
         {
-            "section": "Sec 106 • Row 21",
+            "section": "Sec 116 • Row 13",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $652.12"
+            "price": "CA $603.72"
         },
         {
             "section": "Sec 120 • Row 20",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $654.50"
+            "price": "CA $643.50"
         },
         {
             "section": "Sec 106 • Row 8",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $654.50"
+            "price": "CA $643.50"
+        },
+        {
+            "section": "Sec 106 • Row 21",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $648.18"
         },
         {
             "section": "Sec 107 • Row 10",
             "ticket_type": "Verified Resale Ticket",
-            "price": "CA $669.97"
+            "price": "CA $666.90"
+        },
+        {
+            "section": "Sec 116 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $670.41"
+        },
+        {
+            "section": "Sec 105 • Row 10",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $675.09"
+        },
+        {
+            "section": "Sec 105 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $702.00"
+        },
+        {
+            "section": "Sec 122 • Row 13",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $702.00"
+        },
+        {
+            "section": "Sec 118 • Row 15",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $817.83"
+        },
+        {
+            "section": "Sec 117 • Row 14",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $836.55"
+        },
+        {
+            "section": "Sec 106 • Row 3",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $930.15"
+        },
+        {
+            "section": "Sec 106 • Row 3",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $1,098.63"
+        },
+        {
+            "section": "Sec 104 • Row 3",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $1,122.03"
+        },
+        {
+            "section": "Sec 106 • Row 1",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $1,630.98"
+        },
+        {
+            "section": "Sec 118 • Row 2",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $1,638.00"
+        },
+        {
+            "section": "Sec 118 • Row 2",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $1,638.00"
+        },
+        {
+            "section": "Sec 116 • Row 4",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $4,307.94"
+        },
+        {
+            "section": "Sec 116 • Row 6",
+            "ticket_type": "Verified Resale Ticket",
+            "price": "CA $4,307.94"
         }
     ]
 }
